@@ -1,8 +1,5 @@
 # 👩🏻‍💻 Evandro Mauricio
-
-** Estudante de Sistemas de Informação **
-
-Me chamo Evandro Mauricio, tenho 43 anos e sou natural do Paraíba. Esotu cursando Sistemas de Informação na UFF.
+Estutande de Sistemas de Informação na Universidade Federal Fluminense 
 
 
 ### 🤖 Linguagens e Tecnologias
