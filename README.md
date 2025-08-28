@@ -1,5 +1,5 @@
-# 👩🏻‍💻 Evandro Mauricio
-Estutande de Sistemas de Informação na Universidade Federal Fluminense 
+# 🧑🏼‍💻 Evandro Mauricio
+Estutande de Sistemas de Informação na Universidade Federal Fluminense
 
 
 ### 🤖 Linguagens e Tecnologias
