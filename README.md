@@ -37,9 +37,8 @@ Estutande de Sistemas de Informação na Universidade Federal Fluminense
 <br/>
 
 
-
 ## · Estatísticas
-
+<!-- >
 <p>
   <img 
     align="left" 
@@ -49,6 +48,7 @@ Estutande de Sistemas de Informação na Universidade Federal Fluminense
     src="https://github-readme-stats.vercel.app/api?username=EvandroMauricioSI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p>
